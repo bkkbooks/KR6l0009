@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6l0009/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿毘達磨發智論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T26/T26n1544.xml
+    old_id: T26n1544
+hash: sha256:d5aa2d47f8de9ca71ccdcea80cf4e59aa62a893df6e08e74e42c1851bd6724fa

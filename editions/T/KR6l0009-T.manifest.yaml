@@ -1,0 +1,816 @@
+canonical_identifier: bkk:krp/KR6l0009/T/v1
+canonical_location: https://kanripo.org/bkk/KR6l0009/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿毘達磨發智論
+  identifiers:
+    krp: KR6l0009
+    cbeta: T26n1544
+    cbeta_old_id: T26n1544
+    authorityid: CA0000052
+    json_key: T1544
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T26/T26n1544.xml
+    old_id: T26n1544
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6l0009_000-T.yaml, hash: 'sha256:d5aa2d47f8de9ca71ccdcea80cf4e59aa62a893df6e08e74e42c1851bd6724fa'}
+  - {seq: 1, filename: KR6l0009_001-T.yaml, hash: 'sha256:9a3f2566bab24a4fefc9f44ccc71ed1a31b5c17a892851c3c9b0c29144550e26'}
+  - {seq: 2, filename: KR6l0009_002-T.yaml, hash: 'sha256:176eff06862a0cc5f92295f42b00adb494dd088e8bedd8d5bd00929c41b52ddb'}
+  - {seq: 3, filename: KR6l0009_003-T.yaml, hash: 'sha256:a78482aeaecd7fdf4ef5db752a706310e5ce05ad06a7d0d806a6e07250bc9cfc'}
+  - {seq: 4, filename: KR6l0009_004-T.yaml, hash: 'sha256:b364bed7fb7d8239fdbcb60e0f2e672af13e9dd8e768b8bc1b30ad698fc27ba5'}
+  - {seq: 5, filename: KR6l0009_005-T.yaml, hash: 'sha256:ccc26ad6eddca53461e5ae45b46a1903f61cca9db8f9c2e350a7140554951552'}
+  - {seq: 6, filename: KR6l0009_006-T.yaml, hash: 'sha256:dc72e3a00b16c1e235b9a691aa9227f26b9242c72ab68b7e82cefc6ef49fe9b0'}
+  - {seq: 7, filename: KR6l0009_007-T.yaml, hash: 'sha256:5af1083891bcae23f6e41c933838d190c8afa9517185ac31f848480049ebe60f'}
+  - {seq: 8, filename: KR6l0009_008-T.yaml, hash: 'sha256:96d4ecdcdc5854a66045df9522dec8a6310362d356532f6117046fe0f7eb0dfc'}
+  - {seq: 9, filename: KR6l0009_009-T.yaml, hash: 'sha256:72a66cf59b6228b138c973c0aa56a44b04c17ae64d36695b0c82831d0fb1f052'}
+  - {seq: 10, filename: KR6l0009_010-T.yaml, hash: 'sha256:d81e8943d08086a7dbccdeaafa48af1fb20d0ed82209ad340b0e657fa54932f7'}
+  - {seq: 11, filename: KR6l0009_011-T.yaml, hash: 'sha256:3b6033d860d4620435cc5cf17f234d4200725285e7e22d43c7104fb7b1ecbb6e'}
+  - {seq: 12, filename: KR6l0009_012-T.yaml, hash: 'sha256:da70f8d69ffefa1c41df8e5195e8ce1cf45d24c18c86c9d90bc69ada7893286c'}
+  - {seq: 13, filename: KR6l0009_013-T.yaml, hash: 'sha256:d675c163f91e96f68c547acedd94300e5ebe91be6647fb9f0302bc42cffb57b1'}
+  - {seq: 14, filename: KR6l0009_014-T.yaml, hash: 'sha256:e13041be63a703a5d20274e1a419d6d09dce3f4ddf429403a4cb44c25533082e'}
+  - {seq: 15, filename: KR6l0009_015-T.yaml, hash: 'sha256:33bfab29ab3b06b18ec1b138db464d75afea0c9852a84a1029485e955e114270'}
+  - {seq: 16, filename: KR6l0009_016-T.yaml, hash: 'sha256:2800750aeadedfd5aba15c328a3c018be548eba1068c71b5c95af31b75d8ba52'}
+  - {seq: 17, filename: KR6l0009_017-T.yaml, hash: 'sha256:10ef9657efb2b7e2e400762bbbcccc57817d770db0f2e485ad3f47b05aa4d912'}
+  - {seq: 18, filename: KR6l0009_018-T.yaml, hash: 'sha256:7732260b48907cd9388ae28e3ee02768dd686f105b33a7b690c5a62406ed04f7'}
+  - {seq: 19, filename: KR6l0009_019-T.yaml, hash: 'sha256:79dbc6d2472a62ee96fded5d226bdf84ab4c2c7a5fbf753a613d5834020f0060'}
+  - {seq: 20, filename: KR6l0009_020-T.yaml, hash: 'sha256:74a03e6ab8879992d658ead84a679271770d9521d5e9bc1dfda89fa2a5c2fbff'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6l0009_000-T.markers.yaml, hash: 'sha256:ba1fa6c16e58034e292697291fd2c395a8ac03689ae08f10520cd3f796ba0793'}
+  - {seq: 1, role: markers, filename: assets/KR6l0009_001-T.markers.yaml, hash: 'sha256:0cb496f877991ddc537e01ba46ba043ea7c69267f3290e5ddfa81f8cc9c0cbbf'}
+  - {seq: 2, role: markers, filename: assets/KR6l0009_002-T.markers.yaml, hash: 'sha256:2ef98a023d565e97ff7aace1f8250e17d57cf6984371b1f971215e2a7e82589d'}
+  - {seq: 3, role: markers, filename: assets/KR6l0009_003-T.markers.yaml, hash: 'sha256:10fa6c20d3cb70cd0dc1e973830edd2e571f4888c95b13c007c68ae382cbd9ce'}
+  - {seq: 4, role: markers, filename: assets/KR6l0009_004-T.markers.yaml, hash: 'sha256:9949f5393e103007fe449a0078299739df1ec46c019dc6c6724ab76eb20f1ed9'}
+  - {seq: 5, role: markers, filename: assets/KR6l0009_005-T.markers.yaml, hash: 'sha256:df1d04badcc59605d77edd2822b35de2c2f391434571a4e01cc0e1f489963b19'}
+  - {seq: 6, role: markers, filename: assets/KR6l0009_006-T.markers.yaml, hash: 'sha256:774896da8a89eddac2dc0f8b17dbf090bcc709a984d8a833b6a29f90d4ee856f'}
+  - {seq: 7, role: markers, filename: assets/KR6l0009_007-T.markers.yaml, hash: 'sha256:24e93b16e70b26e6fd0159f9bb918549f6765c5c3237424d751abe9a85c9feda'}
+  - {seq: 8, role: markers, filename: assets/KR6l0009_008-T.markers.yaml, hash: 'sha256:af45aede7dedbb5dd6e0afd23e20d40f7022e561b546dd374fdbddad67e0ef34'}
+  - {seq: 9, role: markers, filename: assets/KR6l0009_009-T.markers.yaml, hash: 'sha256:17c1a871f8091454ac1ab38f2e11b8f3d09df80b91934476c16bc1b0c08c6fc4'}
+  - {seq: 10, role: markers, filename: assets/KR6l0009_010-T.markers.yaml, hash: 'sha256:67cae5ad403c98451fdd9630ffdf2ba1b256cc5b5db1c588c96d45b0107942d4'}
+  - {seq: 11, role: markers, filename: assets/KR6l0009_011-T.markers.yaml, hash: 'sha256:5c105d79637f02b78574258f9e24fc667de4a25de889b1db3e1f1264c4ab52bf'}
+  - {seq: 12, role: markers, filename: assets/KR6l0009_012-T.markers.yaml, hash: 'sha256:ba15f123d5f131b41151c08edd3c78bd263bf487763ac8c2a33d245a50d81f20'}
+  - {seq: 13, role: markers, filename: assets/KR6l0009_013-T.markers.yaml, hash: 'sha256:6979566f1a5b5366f1b2db0b6dadf1feda2376d573b82395e0604eba70286685'}
+  - {seq: 14, role: markers, filename: assets/KR6l0009_014-T.markers.yaml, hash: 'sha256:859ce5cba9bcf093a3f6238bd823c4316673b05431ff8e6ab07a8bfa85c6a178'}
+  - {seq: 15, role: markers, filename: assets/KR6l0009_015-T.markers.yaml, hash: 'sha256:6be30d65ca633d52805a50202d77bdd9f6b52c2d10644900ff117a853c2758b5'}
+  - {seq: 16, role: markers, filename: assets/KR6l0009_016-T.markers.yaml, hash: 'sha256:b7b87653e2008daebab0fa26810191a1699bac2299247a82298af23d51be2cb9'}
+  - {seq: 17, role: markers, filename: assets/KR6l0009_017-T.markers.yaml, hash: 'sha256:5b85e523fe51ef07eab0289d79bd62a2f5dc71c894cfae8eb7dc82a728df8a8f'}
+  - {seq: 18, role: markers, filename: assets/KR6l0009_018-T.markers.yaml, hash: 'sha256:180ecfecd719340f7f9dc21e0e499c5f0538ddeea043cae425ac8280593dd76b'}
+  - {seq: 19, role: markers, filename: assets/KR6l0009_019-T.markers.yaml, hash: 'sha256:c8a12ae9b483b32596a8ce0f9e144653a88d1f108c0dcfbb719bd90fd3eab418'}
+  - {seq: 20, role: markers, filename: assets/KR6l0009_020-T.markers.yaml, hash: 'sha256:9d4b018de782701e4aa341da3796d2b4789b165385315d654dc5e454f9e37c34'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6l0009_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6999
+  label: 阿毘達磨發智論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0009_T_001-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 1 雜蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0009_T_001-mulu-2
+    span:
+    - body
+    - 17
+    - 17
+  label: 1 世第一法納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0009_T_001-mulu-3
+    span:
+    - body
+    - 1830
+    - 1830
+  label: 2 智納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0009_T_001-mulu-4
+    span:
+    - body
+    - 4766
+    - 4766
+  label: 3 補特伽羅納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0009_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8639
+  label: 阿毘達磨發智論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0009_T_002-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 4 愛敬納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0009_T_002-mulu-2
+    span:
+    - body
+    - 2446
+    - 2446
+  label: 5 無慚納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0009_T_002-mulu-3
+    span:
+    - body
+    - 3911
+    - 3911
+  label: 6 相納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0009_T_002-mulu-4
+    span:
+    - body
+    - 4731
+    - 4731
+  label: 7 義納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0009_T_002-mulu-5
+    span:
+    - body
+    - 5892
+    - 5892
+  label: 8 思納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0009_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8244
+  label: 阿毘達磨發智論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0009_T_003-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 2 結蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0009_T_003-mulu-2
+    span:
+    - body
+    - 17
+    - 17
+  label: 1 不善納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0009_T_003-mulu-3
+    span:
+    - body
+    - 6343
+    - 6343
+  label: 2 一行納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0009_T_003-mulu-4
+    span:
+    - body
+    - 6343
+    - 6343
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0009_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7425
+  label: 阿毘達磨發智論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0009_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7527
+  label: 阿毘達磨發智論卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0009_T_005-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 3 有情納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0009_T_005-mulu-2
+    span:
+    - body
+    - 4186
+    - 4186
+  label: 4 十門納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0009_T_005-mulu-3
+    span:
+    - body
+    - 4186
+    - 4186
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6l0009_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 7826
+  label: 阿毘達磨發智論卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6l0009_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7732
+  label: 阿毘達磨發智論卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6l0009_T_007-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 3 智蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6l0009_T_007-mulu-2
+    span:
+    - body
+    - 17
+    - 17
+  label: 1 覺支納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6l0009_T_007-mulu-3
+    span:
+    - body
+    - 5185
+    - 5185
+  label: 2 五種納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6l0009_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 7619
+  label: 阿毘達磨發智論卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6l0009_T_008-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 3 他心智納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6l0009_T_008-mulu-2
+    span:
+    - body
+    - 1311
+    - 1311
+  label: 4 修智納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6l0009_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 7000
+  label: 阿毘達磨發智論卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6l0009_T_009-mulu-1
+    span:
+    - body
+    - 3586
+    - 3586
+  label: 5 七聖納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6l0009_T_009-mulu-2
+    span:
+    - body
+    - 3586
+    - 3586
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6l0009_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 7367
+  label: 阿毘達磨發智論卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6l0009_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 6943
+  label: 阿毘達磨發智論卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6l0009_T_011-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 4 業蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6l0009_T_011-mulu-2
+    span:
+    - body
+    - 17
+    - 17
+  label: 1 惡行納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6l0009_T_011-mulu-3
+    span:
+    - body
+    - 1691
+    - 1691
+  label: 2 邪語納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6l0009_T_011-mulu-4
+    span:
+    - body
+    - 3964
+    - 3964
+  label: 3 害生納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6l0009_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 6051
+  label: 阿毘達磨發智論卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6l0009_T_012-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 4 表無表納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6l0009_T_012-mulu-2
+    span:
+    - body
+    - 4252
+    - 4252
+  label: 5 自業納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6l0009_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 8854
+  label: 阿毘達磨發智論卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6l0009_T_013-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 5 大種蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6l0009_T_013-mulu-2
+    span:
+    - body
+    - 17
+    - 17
+  label: 1 大造納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6l0009_T_013-mulu-3
+    span:
+    - body
+    - 3335
+    - 3335
+  label: 2 緣納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6l0009_T_013-mulu-4
+    span:
+    - body
+    - 7297
+    - 7297
+  label: 3 具見納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6l0009_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 8443
+  label: 阿毘達磨發智論卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6l0009_T_014-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 4 執受納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6l0009_T_014-mulu-2
+    span:
+    - body
+    - 4544
+    - 4544
+  label: 6 根蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6l0009_T_014-mulu-3
+    span:
+    - body
+    - 4544
+    - 4544
+  label: 1 根納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6l0009_T_015-juan-start
+    span:
+    - body
+    - 0
+    - 8716
+  label: 阿毘達磨發智論卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6l0009_T_015-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 2 有納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6l0009_T_015-mulu-2
+    span:
+    - body
+    - 2904
+    - 2904
+  label: 3 觸納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6l0009_T_015-mulu-3
+    span:
+    - body
+    - 4493
+    - 4493
+  label: 4 心納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6l0009_T_015-mulu-4
+    span:
+    - body
+    - 6163
+    - 6163
+  label: 5 一心納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6l0009_T_016-juan-start
+    span:
+    - body
+    - 0
+    - 10659
+  label: 阿毘達磨發智論卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6l0009_T_016-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 6 魚納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6l0009_T_016-mulu-2
+    span:
+    - body
+    - 1485
+    - 1485
+  label: 7 因緣納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6l0009_T_017-juan-start
+    span:
+    - body
+    - 0
+    - 8240
+  label: 阿毘達磨發智論卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6l0009_T_017-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 7 定蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6l0009_T_017-mulu-2
+    span:
+    - body
+    - 17
+    - 17
+  label: 1 得納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6l0009_T_017-mulu-3
+    span:
+    - body
+    - 4568
+    - 4568
+  label: 2 緣納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6l0009_T_018-juan-start
+    span:
+    - body
+    - 0
+    - 8087
+  label: 阿毘達磨發智論卷第十八
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6l0009_T_018-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 3 攝納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6l0009_T_018-mulu-2
+    span:
+    - body
+    - 5229
+    - 5229
+  label: 4 不還納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6l0009_T_019-juan-start
+    span:
+    - body
+    - 0
+    - 8978
+  label: 阿毘達磨發智論卷第十九
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6l0009_T_019-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 5 一行納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6l0009_T_019-mulu-2
+    span:
+    - body
+    - 4276
+    - 4276
+  label: 8 見蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6l0009_T_019-mulu-3
+    span:
+    - body
+    - 4276
+    - 4276
+  label: 1 念住納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6l0009_T_019-mulu-4
+    span:
+    - body
+    - 6597
+    - 6597
+  label: 2 三有納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6l0009_T_019-mulu-5
+    span:
+    - body
+    - 7978
+    - 7978
+  label: 3 想納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6l0009_T_020-juan-start
+    span:
+    - body
+    - 0
+    - 7611
+  label: 阿毘達磨發智論卷第二十
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6l0009_T_020-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 4 智納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6l0009_T_020-mulu-2
+    span:
+    - body
+    - 1687
+    - 1687
+  label: 5 見納息
+  type: mulu
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6l0009_T_020-mulu-3
+    span:
+    - body
+    - 4528
+    - 4528
+  label: 6 伽他納息
+  type: mulu
+  level: 1
+hash: sha256:df2b0631575ab70d75055da2c41bce06956764c8c772e4d1cd30e4c9d8240462
