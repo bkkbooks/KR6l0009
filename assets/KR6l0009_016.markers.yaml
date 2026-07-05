@@ -641,7 +641,6 @@ markers:
   - {type: punctuation, offset: 1501, content: 。, id: KR6l0009_T_016-bkkpn378}
   - {type: page-break, offset: 1506, content: '', id: KR6l0009_T_016-1001c, 'n': 1001c, ed: T, source_xml_id: T26.1544.1001c}
   - {type: line-break, offset: 1506, content: '', id: KR6l0009_T_016-1001c01, ed: T, 'n': 1001c01}
-  - {type: substitution, offset: 1506, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 1511, content: 。, id: KR6l0009_T_016-bkkpn379}
   - {type: variant, offset: 1515, length: 1, content: 說, 聖: 記}
   - {type: xml-element, offset: 1516, content: '', id: lgT26p1001b2901_end, name: lg, role: close, attrs: {type: regular, 'xml:id': lgT26p1001b2901}}
@@ -4994,4 +4993,4 @@ markers:
   - {type: line-break, offset: 10659, content: '', id: KR6l0009_T_016-1008a01, ed: T, 'n': 1008a01}
   - {type: line-break, offset: 10659, content: '', id: KR6l0009_T_016-1008a02, ed: T, 'n': 1008a02}
   back: []
-hash: sha256:6c7e231ef8f24606db4dc64a6e1e71ffe41453f72758746eaa2e01dc4c638caf
+hash: sha256:cac5d76575be010f792e8bf5ee07c6cdc0ae0371b146b64d821e84433b32292d
